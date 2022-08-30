@@ -24,7 +24,7 @@ Enmap by eslachance et. al, Axios by Axios. It offered features a standard chatb
 rock paper scissors, joke and insult, alongside a help command, a configuration command and a ping command to see if the bot was lagging behind.
 
 ## How does it accomplish this? (Code Explanation)
-Skeleton was created using JavaScript and Node.js. Enmap was used to store the prefix the server it was in wanted to use for its commands.
+This was created using JavaScript and Node.js. Enmap was used to store the prefix the server it was in wanted to use for its commands.
 Axios was used for the joke and insult command, as those ones use a 3rd-party API instead of storing it in a file, and it uses GET 
 to get the API from the sites, and output the response it got. Commands could be added in at later times, as long as they were dropped into the
 commands folder, as there is code in bot.js to read the folder and if it finds any .js files, it requires it and adds it to the command list.
