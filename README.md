@@ -18,7 +18,7 @@ token = bot's token for logging in
 
 # Summary:
 ## What is this program?
-Skeleton, as my Discord Bot was named, was a bot for the communications platform Discord, which consists of small servers that people
+This was a bot for the communications platform Discord, which consists of small servers that people
 can create for free on the platform. Skeleton was your basic chatbot, and was created using JavaScript, Node.js, Discord's own discord.js,
 Enmap by eslachance et. al, Axios by Axios. It offered features a standard chatbot would have, such as a coin flip, dice, 8ball, 
 rock paper scissors, joke and insult, alongside a help command, a configuration command and a ping command to see if the bot was lagging behind.
